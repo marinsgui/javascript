@@ -21,12 +21,6 @@ div {
     font-size: 20px;
 }
 
-select {
-    height: 200px;
-    width: 150px;
-    overflow: hidden;
-}
-
 footer {
     color: white;
     text-align: center;
