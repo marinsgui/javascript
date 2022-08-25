@@ -29,3 +29,8 @@ function finalizar() {
     <p>Somando todos os valores temos ${total}</p>
     <p>A média dos valores é ${media}`
 }
+
+function resetar() {
+    lista.innerHTML = ''
+    res.innerHTML = ''
+}
